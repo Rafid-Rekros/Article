@@ -27,14 +27,3 @@ Artificial Intelligence (AI) is rapidly becoming a core element in software engi
 While AI has transformed software engineering, challenges remain. Developers need to build trust in AI-generated code, learn new tools, and maintain control over decision-making. Future developments like Explainable AI (XAI), AI pair programmers, and fully autonomous debugging agents are on the horizon and will shape a new era in software development.
 
 Embracing AI in software engineering is not just about keeping up with technology—it's about staying ahead of the curve, building more resilient systems, and unlocking new opportunities for innovation.
-
-## Explore More
-- [OpenQQuantify Website](https://www.openqquantify.com)
-- [OpenQQuantify LinkedIn](https://www.linkedin.com/company/openqquantify/)
-- [Paul Savluc (CEO)](https://www.linkedin.com/in/paulsavluc/)
-- [Adam Karabin (COO)](https://www.linkedin.com/in/adam-karabin-3a434861)
-- [Håvard Lillebo (CFO)](https://www.linkedin.com/in/havardlillebo)
-- [Tomorrow's AI](https://www.tomorrowsai.org)
-
-## Go to OpenQQuantify
-[Go to OpenQQuantify](https://www.openqquantify.com)
